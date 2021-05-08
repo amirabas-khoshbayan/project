@@ -11,7 +11,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+<<<<<<< HEAD
         <option value="JavaScript File" />
+=======
+        <option value="Go File" />
+>>>>>>> develop
       </list>
     </option>
   </component>
@@ -23,15 +27,23 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1s55xp3OqeAN7Ifzrjtju9YEmUt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+<<<<<<< HEAD
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+=======
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+>>>>>>> develop
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -40,15 +52,34 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myproject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="688" y="273" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620209683515">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="688" y="273" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620209683515" />
+<<<<<<< HEAD
     <state x="492" y="266" width="306" height="453" key="FileChooserDialogImpl" timestamp="1620299358661">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -62,5 +93,27 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="686" y="240" width="527" height="561" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620210457816" />
+=======
+    <state x="738" y="281" width="424" height="478" key="FileChooserDialogImpl" timestamp="1620467442221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="281" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620467442221" />
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom" timestamp="1620494711737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620494711737" />
+    <state width="1878" height="276" key="GridCell.Tab.0.center" timestamp="1620494711737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620494711737" />
+    <state width="1878" height="276" key="GridCell.Tab.0.left" timestamp="1620494711736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620494711736" />
+    <state width="1878" height="276" key="GridCell.Tab.0.right" timestamp="1620494711737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620494711737" />
+>>>>>>> develop
   </component>
 </project>
