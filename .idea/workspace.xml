@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b922cf3f-da6b-464b-802c-76011ce6497d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/contect.html" beforeDir="false" afterPath="$PROJECT_DIR$/contect.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,9 +48,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="688" y="273" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620209683515" />
-    <state x="738" y="281" width="424" height="478" key="FileChooserDialogImpl" timestamp="1620151768285">
+    <state x="738" y="281" width="424" height="478" key="FileChooserDialogImpl" timestamp="1620467442221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="738" y="281" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620151768285" />
+    <state x="738" y="281" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1620467442221" />
   </component>
 </project>
