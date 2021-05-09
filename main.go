@@ -9,7 +9,7 @@ type person struct {
 	family string
 	age int
 }
- 
+
 func main()  {
 	fmt.Println("LOVE GOLANG")
  example :=  person{
